@@ -1,0 +1,24 @@
+.maindiv{
+	height:auto;
+	width:60%;
+	margin: 0 auto;
+	}
+	
+.row{
+	width:100%;
+	height: auto;
+	
+	}
+.left{
+	width:30%;
+	height: auto;
+	float:left;
+	min-height: 30px;
+	
+	}
+	.right{
+	width:70%;
+	height: auto;
+	float:left;
+	min-height: 30px;
+	}
